@@ -36,6 +36,7 @@ Nicht nur eine aufgeräumte Schublade oder ein Schrank. Wahrlich eine nachhaltig
     3. Papierkram
     4. Kleinkram (Japan. "Komono")
     5. Erinnerungen
+    
 * Phase II: Jedem Ding einen "heiligen" festen Platz zuweisen
 
 ## Die Philosophie hinter dem Marie Kondos Aufräumverfahren
@@ -68,6 +69,6 @@ Studium Philospophie und Wirschaftsingenieurwesen, Ausbildung als Marie Kondo Co
 2. Wie kann ich das erste Treffen vorbereiten? - Sorgen Sie dafür, dass Sie ungestört sind (Handy aus etc.). Informieren Sie weitere Personen im Haus, dass Sie nicht gestört werden möchten. Stellen Sie evtl. große Kartons, Mülleimer und Tüten bereit. Um alle anderen Utensilien, die wir benötigen werden, kümmere ich mich. 
 
 ## Testimonials- Das sagen meine Klienten
-> Seit ich ausgemistet und mit Herrn Perk ausgemistet habe, finde ich Dinge viel schneller. Das ist zum Beispiel beim Koffer packen sehr praktisch.
+> Seit mit Herrn Perk ausgemistet habe, finde ich Dinge viel schneller. Das ist zum Beispiel beim Koffer packen sehr praktisch.
 > 
 
