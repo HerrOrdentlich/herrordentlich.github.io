@@ -30,14 +30,14 @@ Nicht nur eine aufgeräumte Schublade oder ein Schrank. Wahrlich eine nachhaltig
 2. Wir führen ein kostenloses Kennenlerngespräch per Telefon oder Videocall und Sie schildern mir Ihre Ziele mit dem Ausmisten und Aufräumen.
 3. Ich komme für den ersten Ausmist-Termin zu Ihnen nach Hause.
 4. Ihr Aufräumfest beginnt:
-* Phase I: Aussortieren und Ausmisten
+  * Phase I: Aussortieren und Ausmisten
     1. Kleidung
     2. Bücher
     3. Papierkram
     4. Kleinkram (Japan. "Komono")
     5. Erinnerungen
     
-* Phase II: Jedem Ding einen "heiligen" festen Platz zuweisen
+  * Phase II: Jedem Ding einen "heiligen" festen Platz zuweisen
 
 ## Die Philosophie hinter dem Marie Kondos Aufräumverfahren
 Platz ist knapp, Zeit ist knapp, nutzen Sie das nur für Dinge (und Menschen), die Ihnen wirklich Freude bereiten!
