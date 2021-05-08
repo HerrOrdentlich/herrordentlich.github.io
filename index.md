@@ -21,7 +21,7 @@ Nicht nur eine aufgeräumte Schublade oder ein Schrank. Wahrlich eine nachhaltig
 3.	weniger Geld ausgeben für die Gegenstände, die einem eigentlich gar nicht gefallen
 4.	mehr Zeit in einem Zustand der Freude verbringen, mit den Dingen die man - schon - hat
 5.	mehr Zeit im Hier und Jetzt verbringen
-6.	weniger Zeit in negativen Gefühlszuständen verbringen (Frust mit der Unordnung, Überwältigung mit den Dingen um dich herum, ??? , ???, ??? usw.)
+6.	weniger Zeit in negativen Gefühlszuständen verbringen (Frust mit der Unordnung, Überwältigung mit den Dingen um Sie herum usw.)
 1.	besser Entscheidungen treffen können und bessere Entscheidungen treffen
 3.	in der eigenen Wohnung wohler fühlen
 
@@ -30,13 +30,13 @@ Nicht nur eine aufgeräumte Schublade oder ein Schrank. Wahrlich eine nachhaltig
 2. Wir führen ein kostenloses Kennenlerngespräch per Telefon oder Videocall und Sie schildern mir Ihre Ziele mit dem Ausmisten und Aufräumen.
 3. Ich komme für den ersten Ausmist-Termin zu Ihnen nach Hause.
 4. Ihr Aufräumfest beginnt:
-** Phase I: Aussortieren und Ausmisten
+* Phase I: Aussortieren und Ausmisten
     1. Kleidung
     2. Bücher
     3. Papierkram
     4. Kleinkram (Japan. "Komono")
     5. Erinnerungen
-** Phase II: Jedem Ding einen "heiligen" festen Platz zuweisen
+* Phase II: Jedem Ding einen "heiligen" festen Platz zuweisen
 
 ## Die Philosophie hinter dem Marie Kondos Aufräumverfahren
 Platz ist knapp, Zeit ist knapp, nutzen Sie das nur für Dinge (und Menschen), die Ihnen wirklich Freude bereiten!
@@ -47,8 +47,8 @@ Insgesamt werden Sie in der Zukunft viel weniger Zeit mit Aufräumen (und Suchen
 
 Steve Jobs zufolge wissen die Menschen häufig gar nicht, was sie wollen, bevor sie es geliefert bekommen. 
 Daher wird der Aufräumprozess in Ihnen folgende beiden Gedanken bzw. Gefühle auslösen:
-*	Klarheit … „ich weiß und ich sehe alles was da ist. Das erlaubt mir bessere Entscheidungen zu treffen. Es spart mir Zeit.“
-* Genug … ich helfe einen Lernprozess zu unterstützen, damit die Menschen wissen, was „genug“ für sie ist.
+* Klarheit: „Ich weiß und ich sehe alles was da ist. Das erlaubt mir bessere Entscheidungen zu treffen. Es spart mir Zeit.“
+* Genug: Ich helfe einen Lernprozess zu unterstützen, damit die Menschen wissen, was „genug“ für sie ist.
 
 Aufräumen wird - meist in der Kindheit durch die Eltern - erlernt. Die Menschen bilden durch Nachahmung oder aus sich selbst heraus gewisse Aufräumstile heraus und folgen dabei zu allermeist unbewusst gewissen Prinzipien.
 In meinem Kurs lernen Sie bessere Aufräumprinzipien. Dadurch schaffen Sie es, bessere Aufräumgewohnheiten auszubilden. Denn:	Gewohnheiten sind änderbar!
