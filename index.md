@@ -35,8 +35,7 @@ Nicht nur eine aufgeräumte Schublade oder ein Schrank. Wahrlich eine nachhaltig
     2. Bücher
     3. Papierkram
     4. Kleinkram (Japan. "Komono")
-    5. Erinnerungen
-    
+    5. Erinnerungen  
   * Phase II: Jedem Ding einen "heiligen" festen Platz zuweisen
 
 ## Die Philosophie hinter dem Marie Kondos Aufräumverfahren
